@@ -1,0 +1,8 @@
+﻿  lab3.1.cpp
+C:\Users\23\OneDrive\Рабочий стол\laba3\lab3.1\lab3.1\lab3.1.cpp(5,1): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+C:\Users\23\OneDrive\Рабочий стол\laba3\lab3.1\lab3.1\lab3.1.cpp : message : см. предыдущее определение "_CRT_SECURE_NO_WARNINGS"
+C:\Users\23\OneDrive\Рабочий стол\laba3\lab3.1\lab3.1\lab3.1.cpp(184,12): warning C4101: m: неиспользованная локальная переменная
+C:\Users\23\OneDrive\Рабочий стол\laba3\lab3.1\lab3.1\lab3.1.cpp(183,14): warning C4101: nn: неиспользованная локальная переменная
+C:\Users\23\OneDrive\Рабочий стол\laba3\lab3.1\lab3.1\lab3.1.cpp(183,7): warning C4101: s: неиспользованная локальная переменная
+C:\Users\23\OneDrive\Рабочий стол\laba3\lab3.1\lab3.1\lab3.1.cpp(184,6): warning C4101: i: неиспользованная локальная переменная
+  lab3.1.vcxproj -> C:\Users\23\OneDrive\Рабочий стол\laba3\lab3.1\Debug\lab3.1.exe
